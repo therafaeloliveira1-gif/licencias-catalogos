@@ -4,6 +4,10 @@
       "activa": true,
       "mensaje": "Su licencia está activa."
     },
+    "canindeyu-store": {
+      "activa": true,
+      "mensaje": "Su licencia está activa."
+    },
     "otro-cliente-prueba": {
       "activa": false,
       "mensaje": "Su licencia ha expirado por falta de pago. Por favor contacte con soporte técnico para reactivar su catálogo."
